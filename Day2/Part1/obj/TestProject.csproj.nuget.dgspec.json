@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\TestProject.csproj": {}
+    "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\Part1\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\TestProject.csproj": {
+    "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\Part1\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\Part1\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\TestProject.csproj",
+        "projectPath": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\Part1\\TestProject.csproj",
         "packagesPath": "C:\\Users\\DCMur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\obj\\",
+        "outputPath": "C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\Part1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DCMur\\AppData\\Roaming\\NuGet\\NuGet.Config"
