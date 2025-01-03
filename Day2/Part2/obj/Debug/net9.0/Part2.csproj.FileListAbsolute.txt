@@ -1,0 +1,15 @@
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\bin\Debug\net9.0\Part2.exe
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\bin\Debug\net9.0\Part2.deps.json
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\bin\Debug\net9.0\Part2.runtimeconfig.json
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\bin\Debug\net9.0\Part2.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\bin\Debug\net9.0\Part2.pdb
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.AssemblyInfoInputs.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.AssemblyInfo.cs
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.csproj.CoreCompileInputs.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.sourcelink.json
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\refint\Part2.dll
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.pdb
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\Part2.genruntimeconfig.cache
+C:\Users\DCMur\OneDrive\Coding Projects\C#\AOC2024\Day2\Part2\obj\Debug\net9.0\ref\Part2.dll
