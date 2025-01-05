@@ -14,7 +14,7 @@ bool isSafe = true;
 int totalSafeSequences = 0;
 
 // Receive input from file
-StreamReader reader = new StreamReader("C:\\Users\\DCMur\\OneDrive\\Coding Projects\\C#\\AOC2024\\Day2\\values.txt");
+StreamReader reader = new StreamReader("C:\\values.txt");
 input = reader.ReadLine();
 
 // Loop through each line and determine if it is valid
