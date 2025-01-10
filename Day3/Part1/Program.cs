@@ -7,6 +7,9 @@
 string input;
 long total = 0;
 int MAXINTLENGTH = 3;
+bool enabled = true;
+string enabler = "do()";
+string disabler = "don't()";
 
 // Receive input from file
 StreamReader reader = new StreamReader("C:\\values.txt");
@@ -23,8 +26,21 @@ while (input != null)
         int num1 = 0;
         int num2 = 0;
 
+        if (i < (input.Length - 7))
+        {
+            if (input.Substring(i, 4) == enabler)
+            {
+                enabled = true;
+            }
+
+            if (input.Substring(i, 7) == disabler)
+            {
+                enabled = false;
+            }
+        }
+
         // Check Substring mul( in overall string
-        if (input[i] == 'm' && input[i + 1] == 'u' && input[i + 2] == 'l' && input[i + 3] == '(')
+        if (input[i] == 'm' && input[i + 1] == 'u' && input[i + 2] == 'l' && input[i + 3] == '(' && enabled == true)
         {
             i += 4;
         }
